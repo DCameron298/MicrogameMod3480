@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: 6a4d16be4e18c6d4ebd8ab6c2789bd2c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesbyleth_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 716
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dda85599674734c83306e8a941b02b
+      internalID: -1516016014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 716
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ff5366ff2064446b88851f27162b93
+      internalID: -784590149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 716
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf10e33b8a6684aa84527753f717c2
+      internalID: 723270748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 716
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28b6ea226d085408fe3583dda4fecb
+      internalID: 1882142533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 716
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2d21e4ad5e9a4eb16b4cb68fd0a4d
+      internalID: -49170433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 716
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36daea8a3a526254da8b258b4e56da84
+      internalID: 91912257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 716
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0336ab6a4d086c34f99f219915a2eff5
+      internalID: 49553054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 716
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e7b4591a3d7a4c9fab728016306a0
+      internalID: -653253756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 716
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06159d11d4c8541b77ce4f4f45d3a6
+      internalID: -300984657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_9
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 716
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0aa25170d360843b9006ef1c06101c
+      internalID: -994447484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 616
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd246a9f071adc4d9bc196a06396c31
+      internalID: -1451440959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 616
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434530e2fb367e942b8730fbd3e9ec47
+      internalID: -96855244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 616
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0454727cc2beeb740b2595613857bbd7
+      internalID: 1730175455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 616
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b0833f9d63270438a0963cf2b42465
+      internalID: -503185614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 616
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a5cbfd2711014892ac7f9c951cfd3
+      internalID: -246513915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_15
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 616
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933011e3979942640bbb10a5d11d1ae8
+      internalID: 1942232625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 616
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a8a50727c7004ead91148812602c2
+      internalID: -1505862634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_17
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 616
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270de093e70b85341859282d050e8720
+      internalID: -2078389839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_18
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 616
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad37b61dcd241040a2482747aedb723
+      internalID: -1783133095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_19
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 616
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06114d4568a7da44f8d5cbc597260f22
+      internalID: 492162004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 516
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9a2e640f242654cbb552fd8850be36
+      internalID: 160572554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 516
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8ceaa9bd8c9148941534c2178d6b9
+      internalID: -1023784134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 516
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ecb0077a66d4445a3a322346c79a1b
+      internalID: -931260207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 516
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34a8203d38ce847973188f379b09f1
+      internalID: 179395577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 504
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec07aad4bf90ac34392b8f437ff5eb57
+      internalID: 1122178053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 504
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d416fbc33c8a4af42a4a0ebc67b7550e
+      internalID: 1582588022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 525
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2360f3f73cc9004f9f94de2aea0dc23
+      internalID: 2146712762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_27
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 531
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff14272d84e1f0f4ea8d6a382d0d5638
+      internalID: -1017671217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 534
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765a25092d003048bbe4979824e1bc7
+      internalID: 1854560380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_29
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 504
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b31ebe8d5df9904183ffa2e9050e5c3
+      internalID: 870914593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 404
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887954e908c459a4cb09389f1c775824
+      internalID: -1274361947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 425
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74662f4d66de1c549adec058ca71ff68
+      internalID: 809055004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 431
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54e38d3aeb7284b8e77241c2dceb9a
+      internalID: -525227378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 434
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc529cbbb26b5a44b28a4f2ebecc0a6
+      internalID: 304992638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 404
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e5bb527b83ee45bdb01c1ec90f8f2
+      internalID: 1132977707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 404
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4afbc39477114f49b062c63944f9000
+      internalID: -1724114679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_36
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 425
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d98e5bb546ed94bafba756896c70fb
+      internalID: 461903098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_37
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 431
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b2b910d409b048a3c8a86f3a5f0b9
+      internalID: -1087205040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_38
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 434
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc686c209e32246b37434f54f48177
+      internalID: -1694198477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_39
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 404
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00be0e9a85b38fa4f80ebd6c18906fcf
+      internalID: 1516810890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 304
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5211dada442c74f438f1773a83504ed0
+      internalID: -987603646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 325
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb5689a40267304c98d029424536127
+      internalID: -8341936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_42
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 331
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cefbd4ab8e95945ae5f7148519429f
+      internalID: 1807699830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 334
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed91b5c20a579141b7721a99608a2fd
+      internalID: 925032109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 313
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e0a279c87c7e944bf13352eac18be3
+      internalID: -1820278132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_45
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 313
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d034eabda4e62343964444749526ba4
+      internalID: -1631749828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_46
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 316
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caabd016a501ab44bbe6f9cc361332f
+      internalID: -1255255901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_47
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 313
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b789b60809ebeff489d2e542177381d2
+      internalID: -899825458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_48
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 313
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4ce574c02d12499a2d154af2cfd09
+      internalID: -841883908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_49
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 313
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ad0c1ed4c3363418cb482f32a715ce
+      internalID: 2111533988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 216
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57ae4afd2ca40a448e320376800f8d2
+      internalID: -1979038212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 213
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ca26d3b121c9b44bb31a8303638b10
+      internalID: -208853976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 213
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169dd7030beef148b9220b783ff771c
+      internalID: -584872044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 213
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab12815365b1d145bced9fbace7153e
+      internalID: -947173294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 216
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae27466539ba7846bb421a5d5b02722
+      internalID: -511633626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_55
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 213
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4c9c681ec2966428aa81eaf59e8706
+      internalID: 1367845654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_56
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 213
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d1ae61acd208f4bb1f87d4478d64a0
+      internalID: 1806413606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_57
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 213
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26694113bbe064d439611d139d72cf80
+      internalID: -1318607585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_58
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 216
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d3cc1e1f40c0f45bed213248d9ff9a
+      internalID: 487211303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 213
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9d993e72b0a3d42af804352d80afdc
+      internalID: -1234471665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840adc345277980448c693fb53e7a620
+      internalID: 1110750716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 116
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53d8a88667a09b40bafbdb14081af3a
+      internalID: 192820302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028451668b2b33245bf9ed4ce3d1eabc
+      internalID: -302943081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0340a1fdd63de054c8ab4d1438a2232c
+      internalID: -220884238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_64
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 116
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4999cc2f637747bd587719d2c1c0b
+      internalID: -62301999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_65
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc45aef9e3b8a00438be04e69970d6b9
+      internalID: 1529946940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_66
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de7367be3d1e3e4eb6b6ac4f6f27307
+      internalID: -1724844778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_67
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 116
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948c1c160a5c6a14c8211780432b15b0
+      internalID: 646427213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_68
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8d5ae428b78a448b48c5f447e6305d
+      internalID: 2050276525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_69
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 116
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4373318c20d9924faba73277ac864c5
+      internalID: -1242493957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_70
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 16
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c9715e8bd33e34ba444f1b96e9cac9
+      internalID: -1295950988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesbyleth_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d928943c484d4418140d3bf8e297ad
+      internalID: 818750697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spritesbyleth_52: -584872044
+      spritesbyleth_53: -947173294
+      spritesbyleth_54: -511633626
+      spritesbyleth_13: -503185614
+      spritesbyleth_44: -1820278132
+      spritesbyleth_42: 1807699830
+      spritesbyleth_61: 192820302
+      spritesbyleth_64: -62301999
+      spritesbyleth_39: 1516810890
+      spritesbyleth_62: -302943081
+      spritesbyleth_23: 179395577
+      spritesbyleth_3: 1882142533
+      spritesbyleth_11: -96855244
+      spritesbyleth_31: 809055004
+      spritesbyleth_66: -1724844778
+      spritesbyleth_9: -994447484
+      spritesbyleth_6: 49553054
+      spritesbyleth_57: -1318607585
+      spritesbyleth_49: 2111533988
+      spritesbyleth_2: 723270748
+      spritesbyleth_69: -1242493957
+      spritesbyleth_55: 1367845654
+      spritesbyleth_20: 160572554
+      spritesbyleth_17: -2078389839
+      spritesbyleth_47: -899825458
+      spritesbyleth_34: 1132977707
+      spritesbyleth_5: 91912257
+      spritesbyleth_7: -653253756
+      spritesbyleth_14: -246513915
+      spritesbyleth_29: 870914593
+      spritesbyleth_40: -987603646
+      spritesbyleth_59: -1234471665
+      spritesbyleth_18: -1783133095
+      spritesbyleth_15: 1942232625
+      spritesbyleth_71: 818750697
+      spritesbyleth_41: -8341936
+      spritesbyleth_48: -841883908
+      spritesbyleth_65: 1529946940
+      spritesbyleth_36: 461903098
+      spritesbyleth_50: -1979038212
+      spritesbyleth_60: 1110750716
+      spritesbyleth_37: -1087205040
+      spritesbyleth_43: 925032109
+      spritesbyleth_16: -1505862634
+      spritesbyleth_1: -784590149
+      spritesbyleth_68: 2050276525
+      spritesbyleth_0: -1516016014
+      spritesbyleth_32: -525227378
+      spritesbyleth_63: -220884238
+      spritesbyleth_70: -1295950988
+      spritesbyleth_22: -931260207
+      spritesbyleth_67: 646427213
+      spritesbyleth_8: -300984657
+      spritesbyleth_4: -49170433
+      spritesbyleth_30: -1274361947
+      spritesbyleth_46: -1255255901
+      spritesbyleth_51: -208853976
+      spritesbyleth_27: -1017671217
+      spritesbyleth_25: 1582588022
+      spritesbyleth_26: 2146712762
+      spritesbyleth_12: 1730175455
+      spritesbyleth_21: -1023784134
+      spritesbyleth_45: -1631749828
+      spritesbyleth_38: -1694198477
+      spritesbyleth_10: -1451440959
+      spritesbyleth_28: 1854560380
+      spritesbyleth_58: 487211303
+      spritesbyleth_19: 492162004
+      spritesbyleth_56: 1806413606
+      spritesbyleth_35: -1724114679
+      spritesbyleth_24: 1122178053
+      spritesbyleth_33: 304992638
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
